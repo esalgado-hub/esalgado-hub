@@ -62,10 +62,12 @@ Estou constantemente desenvolvendo novos projetos para fortalecer minhas habilid
 ---
 
 📫 Contato:  
-<a href="https://linkedin.com/in/edson-oliveira-salgado-6bb9b232" target="_blank">
-  <img src="https://img.shields.io/badge/-Edson%20Oliveira%20Salgado-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:edsonsalgado27@gmail.com">
-  <img src="https://img.shields.io/badge/-edsonsalgado27@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
+<div align="left">
+  <a href="https://linkedin.com/in/edson-oliveira-salgado-6bb9b232" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Edson%20Oliveira%20Salgado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:edsonsalgado27@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-edsonsalgado27@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
