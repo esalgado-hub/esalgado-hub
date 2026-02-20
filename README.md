@@ -1,4 +1,4 @@
-![Banner](https://github.com/esalgado-hub/esalgado-hub/blob/master/assets/banner.png)
+<img src="banner.png" width="100%"/>
 
 # 👋 Olá, eu sou o Edson!
 
