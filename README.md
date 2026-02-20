@@ -62,5 +62,5 @@ Estou constantemente desenvolvendo novos projetos para fortalecer minhas habilid
 ---
 
 📫 Contato:  
-[LinkedIn:] (linkedin.com/in/edson-oliveira-salgado-6bb9b232) <br>
-[Email:] (edsonsalgado27@gmail.com)
+<a href="linkedin.com/in/edson-oliveira-salgado-6bb9b232"><img src="https://img.shields.io/badge/-Felipe%20Mota%20Rocha-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:edsonsalgado27@gmail.com"><img src="https://img.shields.io/badge/-felipemota.rocha@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
