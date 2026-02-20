@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" width="1000"/>
+</p>
+
 # 👋 Olá, eu sou o Edson!
 
 🚀 Analista de Dados em transição de carreira, focado em transformar dados em informações estratégicas para apoiar a tomada de decisão.
