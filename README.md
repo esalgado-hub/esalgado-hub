@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.png" width="1000"/>
-</p>
+<img src="assets/banner.png" width="100%"/>
 
 # 👋 Olá, eu sou o Edson!
 
