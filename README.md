@@ -9,9 +9,10 @@ Atualmente aprofundando conhecimentos em análise de dados, modelagem e visualiz
 ## 🧠 Sobre mim
 
 - 📍 Brasília – DF
-- 📊 Foco em Análise de Dados
+- 📊 Foco em Análise de Dados e Ciência de Dados
 - 📚 Estudando continuamente Python, SQL e Power BI
 - 🎯 Objetivo: atuar como Analista de Dados Júnior
+- 👩‍🎓 Cursando: Inteligência Artificial
 
 ---
 
@@ -46,8 +47,8 @@ Atualmente aprofundando conhecimentos em análise de dados, modelagem e visualiz
 🔹 **Sistema de Gestão Patrimonial**  
 Aplicação no-code para controle e rastreabilidade de bens patrimoniais, com estruturação de base de dados organizada.
 
-🔹 **Sistema de Controle de Materiais**  
-Aplicativo para controle de estoque, registro de entradas e saídas e organização de dados para relatórios.
+🔹 **Sistema de Controle de Materiais de Consumo**  
+Aplicativo para controle de estoque, registro de entradas e saídas de materiais de consumo.
 
 🔹 **Dashboard Analítico em Power BI**  
 Projeto com ETL, modelagem de dados e criação de indicadores estratégicos para análise de desempenho.
@@ -61,5 +62,5 @@ Estou constantemente desenvolvendo novos projetos para fortalecer minhas habilid
 ---
 
 📫 Contato:  
-[LinkedIn:] (linkedin.com/in/edson-oliveira-salgado-6bb9b232)
+[LinkedIn:] (linkedin.com/in/edson-oliveira-salgado-6bb9b232) <br>
 [Email:] (edsonsalgado27@gmail.com)
